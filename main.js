@@ -1,5 +1,5 @@
 
-mapboxgl.accessToken = 'pk.eyJ1IjoidGV2YTkwIiwiYSI6ImNsN3RqNXQ2czBqbDUzdmxlcTZqc3psZjAifQ.aLATAKK43Cd2KYpl2TRu_A';
+mapboxgl.accessToken = 'Mapbox_Your_Token';
 const map = new mapboxgl.Map({
 container: 'map', // container ID
 style: 'mapbox://styles/mapbox/streets-v11', // style URL
